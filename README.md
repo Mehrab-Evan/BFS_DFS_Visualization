@@ -1,6 +1,6 @@
 # BFS_DFS_Visualization
 
-- Clone this repository: `git clone https://github.com/Mehrab-Evan/Deep-Learning-VGG16-for-simple-vehichle-classification.git`
+- Clone this repository: `git clone https://github.com/Mehrab-Evan/BFS_DFS_Visualization.git`
 - Move the project directory: `cd BFS_DFS_Visualizataion`
 - Open cmd from terminal
 - Create the virtual environment and activate it:
